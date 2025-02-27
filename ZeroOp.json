@@ -1,10 +1,10 @@
 {
-    "serverstatus":"true",
+    "serverstatus":"false",
     "noticemode":"true",
     "dataclearmode":"false",
-    "servermeassage":"Wait We Are Working On a new Update!",
+    "servermeassage":"Security Reasons!",
     "opentime":"",
     "libs":"https://github.com/InvVishal/Rebranding-Magic/raw/refs/heads/main/libZeroOp.zip",
-    "notice_title":"Welcome Vip Users",
+    "notice_title":"Server Off",
     "notice_body":""
 }
